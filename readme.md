@@ -15,3 +15,13 @@ O projeto utiliza as seguintes bibliotecas Python:
 - `datetime`
 - `time`
 - `asyncio` (para versão assíncrona do cliente)
+
+### Execução
+`` bash
+client.py
+``
+em outro teminal os servidores
+
+`` bash
+server.py
+``
