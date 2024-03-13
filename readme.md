@@ -17,11 +17,11 @@ O projeto utiliza as seguintes bibliotecas Python:
 - `asyncio` (para versão assíncrona do cliente)
 
 ### Execução
-`` bash
+```bash
 client.py
-``
+```
 em outro teminal os servidores
 
-`` bash
+``` bash
 server.py
-``
+```
