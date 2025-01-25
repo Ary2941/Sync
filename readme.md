@@ -25,3 +25,4 @@ em outro teminal os servidores
 ``` bash
 server.py
 ```
+nothing is worth the risk
